@@ -1,0 +1,94 @@
+html, body {
+	margin:0px auto;
+}
+
+
+#baner {
+	background:#212121;
+	width:100%;
+	height:15%;
+	color:red;
+	font-size:80px;
+	text-align:center;
+	padding-top: 5px;
+	font-family:Brush Script MT;
+}
+
+#zawartosc {
+	background:#757575;
+	min-height:83%;
+	width:100%;
+	float:left;
+	text-align:center;
+	font-family:Brush Script MT;
+
+}
+
+
+#stopka {
+	background:#212121;
+	color: white;
+	width:100%;
+	height:3%;
+	float:left;
+	text-align: right;
+	position:absolute;
+	bottom:0;
+	position:fixed;
+	font-family:Brush Script MT;
+}
+
+h2 {
+	text-align: center;
+}
+
+#all{
+		
+}
+
+#formularz{
+	padding-top:50px;
+	text-align:center;
+	background:#ccccff;
+	border:solid;
+	border-width:2px;
+	border-color:#9999ff;
+	width:300px;
+	height:200px;
+	float:left;
+	position: absolute; 
+	margin: auto;  
+	top: 0;  
+	right: 0;  
+	bottom: 0;  
+	left: 0;
+}
+
+#submit{
+	text-align:center;
+	width:150px;
+	height:40px;
+}
+fo{
+	margin: 5px;
+	padding: 5px
+}
+
+a{
+	margin: 5px;
+	padding: 5px;
+	text-decoration: none;
+	font-size:20px;	
+	text-align:right;
+}
+
+.fot{
+	border:solid;
+	border-width:2px;
+	border-color:#212121;
+	color:white;
+	float:left;
+	margin: 0 auto;
+	margin-left:5.5%;
+	margin-bottom:2%;
+}
